@@ -1,23 +1,6 @@
 ﻿<div align="center">
 
-```text
-               |
-              / \
-             / _ \
-            | / \ |
-            ||   ||
-            ||   ||
-            ||   ||
-           /|     |\
-          / |     | \
-         /  |__*__|  \
-        |  /       \  |
-        | /         \ |
-        |/           \|
-           ( )   ( )
-          (   ) (   )
-         (     )(    )
-```
+<img src="./assets/space_sky.gif" width="100%" alt="Space Sky Horizon" />
 
 # Mathew Ospino Hernandez
 ### **Full-Stack Software Engineer · Data & Distributed Systems**
