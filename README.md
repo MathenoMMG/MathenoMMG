@@ -1,8 +1,28 @@
 ﻿<div align="center">
 
+```text
+               |
+              / \
+             / _ \
+            | / \ |
+            ||   ||
+            ||   ||
+            ||   ||
+           /|     |\
+          / |     | \
+         /  |__*__|  \
+        |  /       \  |
+        | /         \ |
+        |/           \|
+           ( )   ( )
+          (   ) (   )
+         (     )(    )
+```
+
 # Mathew Ospino Hernandez
-### **Robotics, Autonomous Systems & Full-Stack Software Engineer**
-*M.Sc. Student @ Politecnico di Torino (Torino, Italy)*
+### **Full-Stack Software Engineer · Data & Distributed Systems**
+*Mechatronics Engineer · Computer & Systems Engineer*  
+*M.Sc. Student in Mechatronics & Space Systems @ Politecnico di Torino*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathew_Ospino_Hernandez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathew-ospino-hernandez/)
 [![GitHub](https://img.shields.io/badge/GitHub-MathenoMMG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathenoMMG)
@@ -14,29 +34,21 @@
 
 ## 🧭 About Me
 
-Graduate student in **Mechatronics / Space Systems** at **Politecnico di Torino**, focusing on autonomous robotics, UAV control, and robust distributed systems. I build end-to-end software solutions ranging from physical simulation and perception pipelines (ROS 2, Gazebo, YOLOv8) to cloud-native platforms (FastAPI, Next.js, Supabase, PostgreSQL).
+Engineer with dual degrees in **Mechatronics Engineering** and **Computer & Systems Engineering**, currently pursuing an **M.Sc. in Mechatronic Systems with focus on Space Systems** at **Politecnico di Torino** (Italy). 
 
-- 🔭 **Active Focus:** Autonomous multi-agent drone coordination, perception & visual tracking, and full-stack software architecture.
-- 📬 **Contact:** [mathewospino48@gmail.com](mailto:mathewospino48@gmail.com)
-- 📍 **Location:** Turin, Italy 🇮🇹 / Remote
+My primary professional track is in **Full-Stack Software Development**, **Data Layers & Analytics**, and **Technical Project Management**. I bridge physical mechatronic principles with modern cloud, data, and web infrastructures—from reactive enterprise web applications and data modeling to autonomous robotic platforms.
+
+- 💻 **Core Expertise:** Web architectures, RESTful APIs, data modeling & persistent data layers (PostgreSQL, Supabase, Redis), and frontend ecosystems (React, Next.js, TypeScript).
+- 🤖 **Mechatronics & Robotics:** Autonomous navigation, microcontrollers, sensing, ROS/ROS 2, embedded systems, and simulation (Gazebo, MATLAB/Simulink).
+- 📍 **Location:** Turin, Italy 🇮🇹 / Remote worldwide 🌍
+- 📬 **Get in touch:** [mathewospino48@gmail.com](mailto:mathewospino48@gmail.com)
 
 ---
 
-## 🚀 Featured Public Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚁 Multi-Agent Drone Control (ROBOTICS)</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/ROS_2-Humble-22314E?style=flat-square&logo=ros" />
-        <img src="https://img.shields.io/badge/Gazebo-11-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/YOLOv8-Perception-00FFFF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python" />
-      </p>
-      <p>Autonomous UAV simulation framework in Gazebo Classic and ROS 2 Humble. Features multi-agent navigation, obstacle handling, visual detection with YOLOv8, and trajectory synthesis for search-and-rescue mission scenarios.</p>
-      <p align="center"><b><a href="https://github.com/MathenoMMG/ROBOTICS">View Repository →</a></b></p>
-    </td>
     <td width="50%" valign="top">
       <h3 align="center">🌱 AmbientaList Platform</h3>
       <p align="center">
@@ -45,8 +57,19 @@ Graduate student in **Mechatronics / Space Systems** at **Politecnico di Torino*
         <img src="https://img.shields.io/badge/Supabase-Database-3ECF8E?style=flat-square&logo=supabase" />
         <img src="https://img.shields.io/badge/LangChain-AI-1C3C3C?style=flat-square" />
       </p>
-      <p>Comprehensive environmental compliance and ESG audit management platform. Built with a robust FastAPI REST API, Supabase authentication & storage, vector embeddings, and a reactive Next.js dashboard.</p>
+      <p>Full-stack environmental compliance and ESG audit management platform. Features an async FastAPI REST API, structured data models with Supabase/PostgreSQL, vector embeddings, and an interactive Next.js analytics dashboard.</p>
       <p align="center"><b><a href="https://github.com/MathenoMMG/AmbientaList">View Repository →</a></b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Ratatoskr: Campus Delivery Robot</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-Embedded-00599C?style=flat-square&logo=c%2B%2B" />
+        <img src="https://img.shields.io/badge/Robotics-Autonomous-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Dart_/_Flutter-Mobile-02569B?style=flat-square&logo=flutter" />
+        <img src="https://img.shields.io/badge/Navigation-SLAM-blueviolet?style=flat-square" />
+      </p>
+      <p>Autonomous internal messenger and delivery rover designed for university campuses. Undergraduate capstone engineering project featuring autonomous navigation, package routing, payload sensing, and mobile coordination interface.</p>
+      <p align="center"><b><a href="https://github.com/F1ammetta/ratatoskr">View Repository →</a></b></p>
     </td>
   </tr>
   <tr>
@@ -55,20 +78,22 @@ Graduate student in **Mechatronics / Space Systems** at **Politecnico di Torino*
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-App-black?style=flat-square&logo=next.js" />
         <img src="https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square&logo=typescript" />
-        <img src="https://img.shields.io/badge/Netlify-Deploy-00C7B7?style=flat-square&logo=netlify" />
+        <img src="https://img.shields.io/badge/Tailwind-Styling-38B2AC?style=flat-square&logo=tailwind-css" />
+        <img src="https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=flat-square&logo=netlify" />
       </p>
-      <p>Modern responsive web application built with TypeScript, modular component architecture, and continuous deployment on Netlify.</p>
+      <p>Modern interactive web application engineered with TypeScript, modular component architecture, and automated continuous delivery.</p>
       <p align="center"><b><a href="https://github.com/MathenoMMG/Parlero">View Repository →</a></b></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Crazskills Ecosystem</h3>
+      <h3 align="center">🚁 Multi-Agent UAV Simulation (ROBOTICS)</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/MCP-Protocol-blueviolet?style=flat-square" />
-        <img src="https://img.shields.io/badge/Graphify-Knowledge_Graph-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Automation-Tools-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/ROS_2-Humble-22314E?style=flat-square&logo=ros" />
+        <img src="https://img.shields.io/badge/Gazebo-11-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/YOLOv8-Perception-00FFFF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python" />
       </p>
-      <p>Personal infrastructure for developer tooling, persistent memory, browser automation protocols, and structured knowledge engineering.</p>
-      <p align="center"><b><a href="https://github.com/MathenoMMG/Crazskills">View Repository →</a></b></p>
+      <p>Academic simulation framework for multi-agent drone coordination in search-and-rescue environments. Integrates ROS 2 Humble, Gazebo Classic, obstacle clearance, and YOLOv8 computer vision.</p>
+      <p align="center"><b><a href="https://github.com/MathenoMMG/ROBOTICS">View Repository →</a></b></p>
     </td>
   </tr>
 </table>
@@ -79,27 +104,21 @@ Graduate student in **Mechatronics / Space Systems** at **Politecnico di Torino*
 
 <div align="center">
 
-| Domain | Technologies & Tools |
+| Area | Technologies & Tools |
 |:---|:---|
-| **Robotics & Simulation** | ROS 2 (Humble), Gazebo, YOLOv8, Kinematics, Trajectory Generation |
-| **Languages** | Python, TypeScript, JavaScript, C++, SQL, Bash, PowerShell |
-| **Frontend & Web** | React, Next.js, Vite, TailwindCSS, HTML5, CSS3 |
-| **Backend & Cloud** | FastAPI, Node.js, Express, PostgreSQL, Supabase, RESTful APIs |
-| **DevOps & Protocols** | Git, Docker, Linux (Ubuntu), Chrome DevTools Protocol (CDP), CI/CD |
+| **Full-Stack & Web** | TypeScript, JavaScript, React, Next.js, Vite, TailwindCSS, HTML5, CSS3, Node.js, Express, FastAPI |
+| **Data & Persistent Layers** | PostgreSQL, Supabase, SQL Data Modeling, Redis, Vector Embeddings, Data Pipelines & Analytics |
+| **Mechatronics & Embedded** | C++, C, Python, ROS / ROS 2, Gazebo, MATLAB & Simulink, Microcontrollers & Actuators, SLAM |
+| **AI, Tooling & DevOps** | LangChain, YOLOv8, Model Context Protocol (MCP), Git, Docker, Linux (Ubuntu/WSL), CI/CD |
 
 </div>
 
 ---
 
-## 📊 Dynamic GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MathenoMMG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathenoMMG&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MathenoMMG&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MathenoMMG&theme=tokyonight&hide_border=true" width="95%" />
 </div>
 
 ---
