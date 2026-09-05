@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="./assets/space_sky.gif" width="100%" alt="Space Sky Horizon" />
 
@@ -57,14 +57,14 @@ My primary professional track is in **Full-Stack Software Development**, **Data 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💬 Parleró</h3>
+      <h3 align="center">🇮🇹 Parleró: PoliTo Italian CLA A2 Prep</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-App-black?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square&logo=typescript" />
-        <img src="https://img.shields.io/badge/Tailwind-Styling-38B2AC?style=flat-square&logo=tailwind-css" />
-        <img src="https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=flat-square&logo=netlify" />
+        <img src="https://img.shields.io/badge/Next.js_16-App_Router-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/React_19-Modern_UI-20232A?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=flat-square&logo=tailwind-css" />
+        <img src="https://img.shields.io/badge/Supabase-Database-3ECF8E?style=flat-square&logo=supabase" />
       </p>
-      <p>Modern interactive web application engineered with TypeScript, modular component architecture, and automated continuous delivery.</p>
+      <p>Interactive study and exam simulation platform created for international students at <strong>Politecnico di Torino</strong> to prepare for the official <strong>CLA A2 Italian exam</strong>. Features a 10-milestone study path, timed exam simulation engine, offline-first sync with Supabase, and full dark/light editorial design.</p>
       <p align="center"><b><a href="https://github.com/MathenoMMG/Parlero">View Repository →</a></b></p>
     </td>
     <td width="50%" valign="top">
